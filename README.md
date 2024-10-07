@@ -54,12 +54,6 @@ Here are some projects I'm proud of:
 - Data Analysis
 - Scientific Writing
 
-## 📊 GitHub Stats
-
-![Ramje's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramje&show_icons=true&theme=radical)
-
-![Ramje's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ramje&theme=radical)
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramje-uthayakumaar-87a845258/)
