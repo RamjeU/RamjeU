@@ -1,11 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ramje Uthayakumaar</h1>
-<h3 align="center">I am a Computer Science student at the University of Western Ontario.</h3>
+# Hi 👋, I'm Ramje Uthayakumaar
 
-- 📫 How to reach me **ram.uthayakumaar@gmail.com**
+## Computer Science and Integrated Science Student at the University of Western Ontario
 
-<h3 align="left">Connect with me: </h3> <a href="https://www.linkedin.com/in/ramje-uthayakumaar-87a845258/">
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- 🎓 Pursuing a dual degree in Computer Science and Integrated Science at the University of Western Ontario
+- 🌿 Gaining extensive knowledge in environmental science, philosophy of science, and research methods
+- 💻 Combining CS skills with other scientific disciplines to address real-world challenges
+- 💡 Passionate about leveraging technology to solve complex environmental and scientific problems
+- 🌱 Always learning and exploring new technologies and their applications in scientific research
+- 🔭 Working on interdisciplinary projects that bridge the gap between computer science and other scientific fields
+
+## 🛠️ Projects
+
+Here are some projects I'm proud of:
+
+1. **[Project Name 1]**
+   - Brief description
+   - Technologies used
+   - [Link to repository]
+
+2. **[Project Name 2]**
+   - Brief description
+   - Technologies used
+   - [Link to repository]
+
+3. **[Project Name 3]**
+   - Brief description
+   - Technologies used
+   - [Link to repository]
+
+## 🔧 Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Scientific Skills
+- Environmental Science
+- Philosophy of Science
+- Research Methods
+- Data Analysis
+- Scientific Writing
+
+## 📊 GitHub Stats
+
+![Ramje's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramje&show_icons=true&theme=radical)
+
+![Ramje's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ramje&theme=radical)
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramje-uthayakumaar-87a845258/)
+
+## 📫 How to reach me
+
+- Email: ram.uthayakumaar@gmail.com
+
+---
+
+⭐️ From [Ramje](https://github.com/ramje)
