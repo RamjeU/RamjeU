@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing a dual degree in Computer Science and Integrated Science at the University of Western Ontario
+- 🎓 Pursuing a bachelors degree in Computer Science and Integrated Science at the University of Western Ontario
 - 🌿 Gaining extensive knowledge in environmental science, philosophy of science, and research methods
 - 💻 Combining CS skills with other scientific disciplines to address real-world challenges
 - 💡 Passionate about leveraging technology to solve complex environmental and scientific problems
