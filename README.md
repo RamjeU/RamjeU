@@ -4,31 +4,13 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing a bachelors degree in Computer Science and Integrated Science at the University of Western Ontario
+- 🎓 Pursuing a bachelor's degree in Computer Science and Integrated Science at the University of Western Ontario
 - 🌿 Gaining extensive knowledge in environmental science, philosophy of science, and research methods
 - 💻 Combining CS skills with other scientific disciplines to address real-world challenges
 - 💡 Passionate about leveraging technology to solve complex environmental and scientific problems
 - 🌱 Always learning and exploring new technologies and their applications in scientific research
 - 🔭 Working on interdisciplinary projects that bridge the gap between computer science and other scientific fields
 
-## 🛠️ Projects
-
-Here are some projects I'm proud of:
-
-1. **[Project Name 1]**
-   - Brief description
-   - Technologies used
-   - [Link to repository]
-
-2. **[Project Name 2]**
-   - Brief description
-   - Technologies used
-   - [Link to repository]
-
-3. **[Project Name 3]**
-   - Brief description
-   - Technologies used
-   - [Link to repository]
 
 ## 🔧 Skills
 
