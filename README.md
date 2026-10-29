@@ -1,49 +1,55 @@
-# Hi 👋, I'm Ramje Uthayakumaar
+# Hi, I'm Ramje Uthayakumaar 👋
 
-## Computer Science and Integrated Science Student at the University of Western Ontario
+**Final-year Computer Science and Integrated Science student at Western University** · former Junior Analyst at Ontario's Independent Electricity System Operator (IESO)
 
-## 🚀 About Me
+I build data-heavy software that people can trust: tools that keep their sources attached, check their own integrity, and explain how they reached an answer. I'm looking for full-time roles in software, data, or energy markets starting **May 2027**.
 
-- 🎓 Pursuing a bachelor's degree in Computer Science and Integrated Science at the University of Western Ontario
-- 🌿 Gaining extensive knowledge in environmental science, philosophy of science, and research methods
-- 💻 Combining CS skills with other scientific disciplines to address real-world challenges
-- 💡 Passionate about leveraging technology to solve complex environmental and scientific problems
-- 🌱 Always learning and exploring new technologies and their applications in scientific research
-- 🔭 Working on interdisciplinary projects that bridge the gap between computer science and other scientific fields
+## 🔭 Right now
 
+- 🎓 Finishing my Honours BSc in Integrated Science with Computer Science (graduating May 2027)
+- 🧪 Running my senior thesis, a user study on how people calibrate their trust in AI answers
+- ⚡ Spent 16 months at the IESO in market assessment and compliance, building Python/SQL pipelines and dashboards for audit-driven investigations
 
-## 🔧 Skills
+## 🚀 Featured projects
 
-### Programming Languages
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**Marvel Dynamics**](https://github.com/RamjeU/marvel-dynamics) · [live demo](https://ramjeu.github.io/marvel-dynamics) | An open database and interactive graph of Marvel character relationships across continuities. Includes a year scrubber, a degrees-of-separation finder, and a source cited for every turning point. | Python, FastAPI, SQLAlchemy, React, Vite, GitHub Actions |
+| [**Chronicle**](https://github.com/RamjeU/chronicle) | A 3D globe and timeline of human history. It answers "could these two people have known each other?" using interval algebra over a sourced contact graph. | TypeScript, React, Three.js, Vite |
+| [**Ask Your Data**](https://github.com/RamjeU/ask-your-data) | A private RAG app for chatting with your PDFs. Runs Llama 3.2 fully on-device, and every answer cites its source page. | Python, LangChain, PostgreSQL/pgvector, FastAPI, Streamlit, Docker |
+| [**AI Personal Trainer**](https://github.com/RamjeU/AI-Personal-Trainer) | A real-time computer vision coach that tracks both arms, counts reps, and flags poor form. | Python, OpenCV, MediaPipe, NumPy |
+| [**PDF Tool Pro**](https://github.com/RamjeU/PDF-Tool-Pro) | A local desktop app to merge, split, and rotate PDFs and convert images, with no uploads. | Python, PyQt5, PyMuPDF, Pillow |
+
+## 🔧 Tech I use
+
+**Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Data Science & Machine Learning
+**Frameworks & libraries**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Scientific Skills
-- Environmental Science
-- Philosophy of Science
-- Research Methods
-- Data Analysis
-- Scientific Writing
+**Data & tools**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-## 🌐 Connect with me
+## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramje-uthayakumaar-87a845258/)
-
-## 📫 How to reach me
-
-- Email: ram.uthayakumaar@gmail.com
-
----
-
-⭐️ From [Ramje](https://github.com/ramje)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ram.uthayakumaar@gmail.com)
